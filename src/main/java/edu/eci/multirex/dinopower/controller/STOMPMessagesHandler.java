@@ -1,6 +1,5 @@
 package edu.eci.multirex.dinopower.controller;
 
-import edu.eci.multirex.dinopower.model.Dino;
 import edu.eci.multirex.dinopower.model.Player;
 import edu.eci.multirex.dinopower.services.PlayerServices;
 import edu.eci.multirex.dinopower.services.RoomServices;
